@@ -1,0 +1,12 @@
+Package: ubiquity-slideshow-linux-mative
+Version: 0.1
+Architecture: all
+Maintainer: Maksym Titenko <titenko.m@gmail.com>
+Installed-Size: 8
+Conflicts: ubiquity-slideshow
+Replaces: ubiquity-slideshow
+Provides: ubiquity-slideshow
+Section: x11
+Priority: optional
+Description: Ubiquity slideshow for Linux Mative
+ A slideshow intended for the Ubiquity installer.

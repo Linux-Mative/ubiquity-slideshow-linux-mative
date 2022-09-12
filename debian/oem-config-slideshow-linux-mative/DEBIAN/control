@@ -1,0 +1,13 @@
+Package: oem-config-slideshow-linux-mative
+Source: ubiquity-slideshow-linux-mative
+Version: 0.1
+Architecture: all
+Maintainer: Maksym Titenko <titenko.m@gmail.com>
+Installed-Size: 8
+Conflicts: oem-config-slideshow
+Replaces: oem-config-slideshow
+Provides: oem-config-slideshow
+Section: x11
+Priority: optional
+Description: OEM slideshow for Linux Mative
+ A slideshow intended for the post-OEM-install configuration.
